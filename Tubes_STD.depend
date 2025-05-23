@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1704209156 source:e:\tugas\kuliah\semester 3\struktur data\tubes_std\main.cpp
+	"pasien.h"
+	<cstdlib>
+
+1704200586 e:\tugas\kuliah\semester 3\struktur data\tubes_std\pasien.h
+	<iostream>
+	<algorithm>
+	<iomanip>
+
+1704206618 source:e:\tugas\kuliah\semester 3\struktur data\tubes_std\pasien.cpp
+	"pasien.h"
+
+1704209156 source:e:\tugas\kuliah\semester 3\struktur data\laporan tubes kelompok 8 if4609\tubes_std\main.cpp
+	"pasien.h"
+	<cstdlib>
+
+1704200586 e:\tugas\kuliah\semester 3\struktur data\laporan tubes kelompok 8 if4609\tubes_std\pasien.h
+	<iostream>
+	<algorithm>
+	<iomanip>
+
+1704206618 source:e:\tugas\kuliah\semester 3\struktur data\laporan tubes kelompok 8 if4609\tubes_std\pasien.cpp
+	"pasien.h"
+
